@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/PreEntrega2Ninno/static/css/main.22c315db.css",
+    "main.js": "/PreEntrega2Ninno/static/js/main.234a2cfb.js",
+    "static/js/787.5b5dfee8.chunk.js": "/PreEntrega2Ninno/static/js/787.5b5dfee8.chunk.js",
+    "static/media/Logo.jpg": "/PreEntrega2Ninno/static/media/Logo.7ba3e9026d7c1d08cf70.jpg",
+    "index.html": "/PreEntrega2Ninno/index.html",
+    "main.22c315db.css.map": "/PreEntrega2Ninno/static/css/main.22c315db.css.map",
+    "main.234a2cfb.js.map": "/PreEntrega2Ninno/static/js/main.234a2cfb.js.map",
+    "787.5b5dfee8.chunk.js.map": "/PreEntrega2Ninno/static/js/787.5b5dfee8.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.22c315db.css",
+    "static/js/main.234a2cfb.js"
+  ]
+}
