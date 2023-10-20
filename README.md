@@ -1,3 +1,7 @@
+Entrega final del curso de React de Coderhouse. 
+Proyecto de tienda de colchones, donde se puede agregar productos al carro y simular una compra, generando nro. de orden, y quitando el stock de la base de datos con firebase. 
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
